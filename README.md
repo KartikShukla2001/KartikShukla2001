@@ -6,7 +6,7 @@ I am interested in Full Stack Development and Android Development.
 
 In my leisure time, I love Watching sports and playing games.
 
-As a hobby, I am trying to learn Japanese.
+Always looking to learn new things.
 
 <!--
 **KartikShukla2001/KartikShukla2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
