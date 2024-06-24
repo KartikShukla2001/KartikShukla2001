@@ -1,8 +1,8 @@
 ### Hey, I'm Kartik 
 
-I am a CSE Undergraduate at @IIIT Gwalior in India.
+I am a Software Engineer at ShopSe(Fintech Startup).
 
-I am interested in Full Stack Development and Android Development.
+I am interested in Full Stack Development.I work on Java and Python.
 
 In my leisure time, I love Watching sports and playing games.
 
@@ -13,7 +13,7 @@ Always looking to learn new things.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
